@@ -23,8 +23,8 @@ Python's built-in string methods like `.upper()`, `.lower()`, `.title()`, and `.
 Another example:
 
 ```python
-"Istanbul".lower()
-# Output: 'istanbul' ❌
+"Ispanak".lower()
+# Output: 'ispanak' ❌
 # Expected: 'ıstanbul' ✅
 ```
 
@@ -48,7 +48,7 @@ With `trStr`, you can safely perform:
 ## 🧪 Usage Example
 
 ```python
-from trstr import trStr
+from trStr import trStr
 
 text = trStr("aliler bize geldi")
 
@@ -100,19 +100,8 @@ With `trStr`, you can stop writing casing workarounds and let the package handle
 
 ---
 
-## 🧑‍💻 About the Author
-
-Developed by [Fatih Dinç](https://mfatihdinc.com)  
-a software developer who got tired of `"ALILER"` being wrong 😅
-
-Feel free to open issues, contribute, or suggest improvements.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — free to use, modify, and redistribute.
 
 ---
-
-> ✅ Let's fix Turkish casing in Python once and for all — no more `"ALILER"` nightmares!
