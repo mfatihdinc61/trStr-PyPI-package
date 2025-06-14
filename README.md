@@ -1,4 +1,4 @@
-# trSrt-PyPI-package
+# trStr PyPI package
 Python package to solve Turkish characters conversion problem 
 
 # 🇹🇷 trStr — Turkish-Aware String Casing
