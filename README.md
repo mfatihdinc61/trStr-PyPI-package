@@ -25,7 +25,7 @@ Another example:
 ```python
 "Ispanak".lower()
 # Output: 'ispanak' ❌
-# Expected: 'ıstanbul' ✅
+# Expected: 'ıspanak' ✅
 ```
 
 These small mismatches can break user interfaces, search features, sorting logic, and more — especially in applications that rely on proper Turkish linguistic rules.
